@@ -1,0 +1,11 @@
+{
+  "name": "vue-showcase",
+  "version": "1.0.0",
+  "description": "Simple app to showcase Vue.js capabilities",
+  "dependencies": {
+    "vue": "^2.3.4"
+  },
+  "devDependencies": {},
+  "author": "Alexandre Langlais",
+  "license": "ISC"
+}
